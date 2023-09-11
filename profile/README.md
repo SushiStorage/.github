@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+this app is for all fans of nippon culture and sushi
+
+[documentation](https://docs.google.com/document/d/19zfvEzw8-R7yRvisJCAvhhFmC2PXeexzZrSo5YtA194/edit?usp=sharing)
+
 <!--
 
 **Here are some ideas to get you started:**
